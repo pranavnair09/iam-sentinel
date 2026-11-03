@@ -1,0 +1,19 @@
+{
+  "selected": "Random Forest",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9333333333333333,
+      "f1_macro": 0.9250793650793651,
+      "cv_f1_macro_mean": 0.9707028061135852,
+      "cv_f1_macro_std": 0.015430717438062947
+    },
+    "Random Forest": {
+      "accuracy": 0.9333333333333333,
+      "f1_macro": 0.9250793650793651,
+      "cv_f1_macro_mean": 0.9721082310043908,
+      "cv_f1_macro_std": 0.016965768414201464
+    }
+  },
+  "n_train": 732,
+  "n_test": 180
+}
